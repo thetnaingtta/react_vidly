@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_vidly/static/css/main.7832c7ef.css",
+    "main.js": "/react_vidly/static/js/main.a9c652d1.js",
+    "static/js/787.fba8e351.chunk.js": "/react_vidly/static/js/787.fba8e351.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react_vidly/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react_vidly/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react_vidly/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react_vidly/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react_vidly/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/react_vidly/index.html",
+    "main.7832c7ef.css.map": "/react_vidly/static/css/main.7832c7ef.css.map",
+    "main.a9c652d1.js.map": "/react_vidly/static/js/main.a9c652d1.js.map",
+    "787.fba8e351.chunk.js.map": "/react_vidly/static/js/787.fba8e351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7832c7ef.css",
+    "static/js/main.a9c652d1.js"
+  ]
+}
